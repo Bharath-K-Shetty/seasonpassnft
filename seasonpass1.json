@@ -1,0 +1,36 @@
+{
+  "name": "FuseMeDaddy Season 1 Pass",
+  "symbol": "FMDP",
+  "description": "Unlock exclusive golden tier rewards and 3000+ bits in rewards",
+  "image": "https://raw.githubusercontent.com/Bharath-K-Shetty/seasonpassnft/main/season1nft.png",
+  "external_url": "https://www.sendarcade.fun/",
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "1"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Golden Pass"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Premium"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Bharath-K-Shetty/seasonpassnft/main/season1nft.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bz4NmfzDYLRKJmbqjxUCnuC9YrprJg52qUaxssdbmXs9",
+        "share": 100
+      }
+    ]
+  }
+}
